@@ -14,6 +14,8 @@ Por otra parte, los avances en computación cuántica durante los últimos años
 - Circuitos cúanticos
 - Programación con Qiskit
 
-Las jornadas tendrán lugar el viernes 17 de febrero de 2023, de 10h a 14h en el laboratorio L16 de la EPS I.
+Las jornadas tendrán lugar el **viernes 17 de febrero de 2023**, de 10h a 14h en el laboratorio L16 de la EPS I. Ambas partes contarán con una presentación y una parte práctica utilizando Google Colab:
+- Taller práctico de CUDA: [Sumar de Vectores]()
+- Taller práctico de Qiskit: [Circuitos Cuánticos](https://colab.research.google.com/drive/1LORdoTgAxL-4jUiTT_mrwC6lhdPR0B_7?usp=sharing)
 
-Los interesados en asistir, por favor mandad un correo con el asunto "Asistencia JGPUQC 2023" a 3dplab@gcloud.ua.es, comunicando vuestra intención de participar en las jornadas. Se entregará un certificado de asistencia a las jornadas a los participantes. ¡Nos vemos allí!
+Los interesados en asistir, por favor **mandad un correo con el asunto "Asistencia JGPUQC 2023" a 3dplab@gcloud.ua.es**, comunicando vuestra intención de participar en las jornadas. Se entregará un certificado de asistencia a las jornadas a los participantes. ¡Nos vemos allí!
