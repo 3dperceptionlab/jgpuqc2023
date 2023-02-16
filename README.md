@@ -7,12 +7,7 @@ La Universidad de Alicante concede una importancia muy relevante a la formación
 
 Esta jornada aspira a convertirse en un foro de encuentro de nuestros científicos, estudiantes y profesionales mediante su desarrollo y consolidación en años venideros. Además el objetivo de los talleres es iniciar a la programación de GPUs dando una visión general del estado del arte de la programación de estos dispositivos, así como poner en práctica estos conceptos sobre la tecnología CUDA de NVIDIA. Para ello, se llevará a cabo la programación y ejecución de ciertos algoritmos tradicionales y se compararán los tiempos de ejecución entre el paradigma tradicional de ejecución sobre la CPU y la nueva aproximación sobre GPGPU.
 
-Por otra parte, los avances en computación cuántica durante los últimos años hacen que esta sea una tecnología que irá tomando más y más relevancia en nuestras vidas. En esta jornada también trataremos los aspectos básicos de este nuevo paradigma, teniendo como objetivos: 
-- Diferenciación entre computación clásica y cuántica
-- Aplicaciones de la aceleración cuántica
-- Fundamentos matemáticos de la computación cuántica
-- Circuitos cúanticos
-- Programación con Qiskit
+Por otra parte, la computación cuántica es una de las áreas más relevantes dentro del campo de la Información Cuántica, que pretende aplicar los fundamentos físicos y matemáticos en el marco de la mecánica cuántica a problemas de computación. Grandes empresas como Google, IBM o Amazon están haciendo esfuerzos para llevar a cabo ordenadores cuánticos con el objetivo de explorar nuevos límites en diferentes áreas (Inteligencia Artificial, Ciberseguridad, comunicaciones, etc) que, por las limitaciones existentes, no se pueden superar utilizando la computación clásica. En el taller se realizará una introducción desde el punto de vista teórico, enfocado a las aplicaciones al campo de la informática. Veremos las bases matemáticas básicas para poder entender cómo funcionan los circuitos cuánticos y se realizarán ejercicios para simular y ejecutar circuitos cuánticos en Python utilizando la librería Qiskit, que permite conexión con ordenadores cuánticos de IBM.
 
 Las jornadas tendrán lugar el **viernes 17 de febrero de 2023**, de 10h a 14h en el laboratorio L16 de la EPS I. Ambas partes contarán con una presentación y una parte práctica utilizando Google Colab:
 - Taller práctico de CUDA: [Suma de Vectores](https://drive.google.com/file/d/1N2Jz06uYcTFl3TBgSKbpjqnUXyHf6Kom/view?usp=sharing)
