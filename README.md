@@ -14,3 +14,9 @@ Las jornadas tendrán lugar el **viernes 17 de febrero de 2023**, de 10h a 14h e
 - Taller práctico de Qiskit: [Circuitos Cuánticos](https://colab.research.google.com/drive/1LORdoTgAxL-4jUiTT_mrwC6lhdPR0B_7?usp=sharing)
 
 Los interesados en asistir, por favor **mandad un correo con el asunto "Asistencia JGPUQC 2023" a 3dplab@gcloud.ua.es**, comunicando vuestra intención de participar en las jornadas. Se entregará un certificado de asistencia a las jornadas a los participantes. ¡Nos vemos allí!
+
+## Autores
+
+Para cualquier duda enviar un correo a: 
+- Manuel Benavent Lledó ([mbenavent@dtic.ua.es](mailto:mbenavent@dtic.ua.es))
+- David Mulero Pérez ([dmulero@dtic.ua.es](mailto:dmulero@dtic.ua.es))
